@@ -63,9 +63,14 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-p-value is 0.0000659 This number is so small that the results found are not likel to have occured by chance. 
+p-value is 0.0000659 This number is so small that the results found are not likely to have occurred by chance.
+
+The odds ratio is 1.543902 means that women who got the drug were 1.5 times more likely to get AIDs than women who got the placebo
+
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
+Based on the question of if the drug is effective in preventing women from getting AIDs, the data shown concludes that women are actually more likely to get AIDS after taking the drug than if they had only taking the placebo, therefore the drug is not effective.
